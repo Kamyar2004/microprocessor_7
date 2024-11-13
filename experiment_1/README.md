@@ -94,10 +94,10 @@ void loop() {
 
 ---
 
-### تصویر مدار 🖼️
+### شرح کارکرد مدار به صورت ویدویی 🖼️
 
 <div align="center">
-<img src="/media/microprocessor_19.jpg">
+<img src="/media/microprocessor_19.gif">
 </div>
 
 ---
