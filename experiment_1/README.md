@@ -94,7 +94,7 @@ void loop() {
 
 ---
 
-### شرح کارکرد مدار به صورت ویدویی 🖼️
+### شرح کارکرد مدار به صورت ویدویی 🎥
 
 <div align="center">
 <img src="/media/microprocessor_19.gif">
